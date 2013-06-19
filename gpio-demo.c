@@ -4,9 +4,8 @@
 
 #include <wiringPi.h>
 
-#define BITS 8
-#define STEP 1000
-#define TICK_US 10
+#define BITS 6
+#define TICK_US 250
 
 #define N_CHANNELS 8
 
